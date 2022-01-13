@@ -13,4 +13,4 @@ This repository contain the PDF files and code of thesis developed at SIPg
 
 [João Ramiro, RGB-D Camera Network Calibration for 3D ModelReconstruction](https://github.com/DonHaul/MscThesis)
 
-[João Ramiro, 2D RGB Head Pose Estimation in Face Occlusion Scenarios](https://github.com/sipg-isr/Thesis/tree/master/MSc/JoseCelestino)
+[José Celestino, 2D RGB Head Pose Estimation in Face Occlusion Scenarios](https://github.com/sipg-isr/Thesis/tree/master/MSc/JoseCelestino)
